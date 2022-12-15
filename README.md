@@ -1,4 +1,4 @@
-# Netskope-Client-Status
+# Netskope-Disabled-Client-Status
 
 Uses the Netskope v1 of the API in order to retrieve agents that are disabled. 
 
