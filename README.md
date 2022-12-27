@@ -5,6 +5,7 @@ Uses the Netskope v1 of the API in order to retrieve agents that are disabled.
 Requires:
 - python 3.x
 - dotenv (pip3 install python-dotenv)
+-requests (pip2 install requests)
 - Juypter Lab/Notebook (optional) 
 
 Usage:
